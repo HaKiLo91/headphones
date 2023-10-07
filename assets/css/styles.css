@@ -263,7 +263,7 @@ img {
     display: grid;
     justify-items: center;
     row-gap: 6rem;
-    position: fixed;
+    position: absolute;
     top: 9rem;
     left: -0.5rem;
 }
